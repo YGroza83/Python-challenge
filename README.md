@@ -1,8 +1,14 @@
 # Python Homework - Py Me Up, Charlie
-ScreenShots for .txt output
-![ScreenShots for .txt output](Images/txtFileOutput.jpg)
 
-## PyBank
+ScreenShots for .txt output
+![Screenshots for .txt output](Images/txtFileOutput.jpg)
+
+Terminal output screenshots
+![Terminal output screenshots](Images/terminalOutput.jpg)
+
+The rest of required results - is in the appropriate folders of the repo.
+
+## PyBank code
 
 ```python:
 import os                                                       #call libraries and variables initiate
@@ -48,7 +54,7 @@ f = open(answerPath, "w")
 f.write(answerString)
 f.close()                                                       #close and save
 ```
-## PyPoll
+## PyPoll code
 
 ```python:
 import os                                                       #call libraries and variables initiate
